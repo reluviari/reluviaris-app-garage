@@ -1,4 +1,4 @@
-# Gestão de Campanhas Astrazeneca - AssistCare
+# Integrating REACT and RAILS
 
 Integrating REACT (gem 'react_on_rails') and RAILS 5.2
 
