@@ -23,7 +23,7 @@ Integrating REACT (gem 'react_on_rails') and RAILS 5.2
  $ rails webpacker:install:react
 ```
 
-### We should now see the following in our terminal:
+* *Agora devemos ver o seguinte em nosso terminal.*
 
 ```sh
  $ Webpacker now supports react.js 🎉
