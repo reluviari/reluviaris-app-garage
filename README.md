@@ -1,3 +1,8 @@
+## Link to App
+
+You can visit the app by clicking this link: [Access App](https://reluviaris-app-garage-react.herokuapp.com/).
+
+
 # Integrating REACT and RAILS
 
 Integrating REACT (gem 'react_on_rails') and RAILS 5.2
