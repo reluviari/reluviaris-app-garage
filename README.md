@@ -2,6 +2,10 @@
 
 You can visit the app by clicking this link: [Access App](https://reluviaris-app-garage-react.herokuapp.com/).
 
+## Link to Tutorial
+
+You can visit the app by clicking this link: [Access Tutorial](https://cognitiveclass.ai/blog/react-on-rails-tutorial-integrating-react-and-ruby-on-rails/).
+
 
 # Integrating REACT and RAILS
 
