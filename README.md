@@ -1,15 +1,18 @@
-## Link to App
+<h1 align="center">
+  <strong>Integrating REACT and RAILS</strong>
+</h1> 
 
-You can visit the app by clicking this link: [Access App](https://reluviaris-app-garage-react.herokuapp.com/).
+<p align="center">
+  Integrating REACT (gem 'react_on_rails') and RAILS 5.2
+</p> 
+
+## 📌 Link to App
+
+You can visit the app by clicking this link: [Access App](https://todocartoes-danilo-challenge.herokuapp.com/).
 
 ## Link to Tutorial
 
-You can visit the app by clicking this link: [Access Tutorial](https://cognitiveclass.ai/blog/react-on-rails-tutorial-integrating-react-and-ruby-on-rails/).
-
-
-# Integrating REACT and RAILS
-
-Integrating REACT (gem 'react_on_rails') and RAILS 5.2
+You can visit the tutorial by clicking this link: [Access Tutorial](https://cognitiveclass.ai/blog/react-on-rails-tutorial-integrating-react-and-ruby-on-rails/).
 
 ## Ruby version: 
 
@@ -58,7 +61,6 @@ Integrating REACT (gem 'react_on_rails') and RAILS 5.2
 ```sh
  $ rails db:seed
 ```
-## How to run the test suite
 
 ## Deployment instructions
 
@@ -86,12 +88,6 @@ Integrating REACT (gem 'react_on_rails') and RAILS 5.2
  $ git push heroku master
 ```
 
-## Todos
+## 🙋‍♂️ Author
 
- - Write MORE Tests
-
-
-License
-----
-
-MIT (change)
+* **Danilo Dias** - [reluviari](https://github.com/reluviari)
