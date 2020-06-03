@@ -8,7 +8,7 @@
 
 ## 📌 Link to App
 
-You can visit the app by clicking this link: [Access App](https://todocartoes-danilo-challenge.herokuapp.com/).
+You can visit the app by clicking this link: [Access App](https://reluviaris-app-garage-react.herokuapp.com/).
 
 ## Link to Tutorial
 
